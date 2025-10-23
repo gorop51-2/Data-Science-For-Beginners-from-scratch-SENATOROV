@@ -28,3 +28,7 @@
 # 5. Сделайте фиктивный коммит с типом docs, добавляющий или улучшающий документацию для вашей новой функции.
 #
 # https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/14f0e9206637191750efe1795cf531e151366f9c
+#
+# Сделайте фиктивный коммит с типом test, добавляющий тесты для этой же функции.
+#
+# https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/8f63c34a1ffef170a50a34df00793f6eaf262d70
