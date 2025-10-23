@@ -24,3 +24,7 @@
 # 4. Представьте, что вы поправили отступы и форматирование во всём проекте, не меняя логики кода. Сделайте фиктивный коммит с типом style
 #
 # https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/c8419c7357fe7ec7e2936d9da584c60d28f1ddb7
+
+# 5. Сделайте фиктивный коммит с типом docs, добавляющий или улучшающий документацию для вашей новой функции.
+#
+# https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/14f0e9206637191750efe1795cf531e151366f9c
