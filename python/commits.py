@@ -16,3 +16,9 @@
 # 2. Представьте, что вы исправили баг в функции, которая некорректно округляет числа. Сделайте фиктивный коммит и напишите для него сообщение в соответствии с Conventional Commits (используя тип fix).
 #
 # https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/92705a24a2212eca2ea32cabcfc73416d5b525ed
+
+# 3. Допустим, вы реализовали новую функцию generateReport в проекте. Сделайте фиктивный коммит с типом feat, отражающий добавление этой функциональности.
+#
+# https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/395cc9c2e9cd2ddd838e8fe27159c4e73342950a
+
+#
