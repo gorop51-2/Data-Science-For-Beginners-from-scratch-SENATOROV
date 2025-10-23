@@ -21,4 +21,6 @@
 #
 # https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/395cc9c2e9cd2ddd838e8fe27159c4e73342950a
 
+# 4. Представьте, что вы поправили отступы и форматирование во всём проекте, не меняя логики кода. Сделайте фиктивный коммит с типом style
 #
+# https://github.com/gorop51-2/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/c8419c7357fe7ec7e2936d9da584c60d28f1ddb7
